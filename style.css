@@ -23,3 +23,10 @@
 .text {
     text-align: center;
 }
+#TOP-logo {
+    height: auto;
+    width: 100px;
+    position: absolute;
+        top: 0px;
+        right: 0px;
+}
