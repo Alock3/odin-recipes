@@ -1,0 +1,25 @@
+/* style.css for recipes home page*/
+
+*{
+    background-color: black
+}
+.title {
+    font-family: "Brush Script MT", "Garamond", cursive, sans-serif;
+    color: silver;    
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+.container{
+    height: auto;
+    width: 50px;
+}
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%;
+  }
+.text {
+    text-align: center;
+}

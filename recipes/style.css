@@ -1,0 +1,26 @@
+/* style.css for recipes pages*/
+* {
+    background-color: maroon;
+}
+h1, h2, h3, h6, li{
+    color: gold;
+}
+h1, h2, h3, h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#description-text {
+    font-size: medium;
+    
+}
+
+#img-1 {
+    height: auto;
+    width: 250px;
+}
+#TOP-logo {
+    height: auto;
+    width: 100px;
+    position: absolute;
+        top: 0px;
+        right: 0px;
+}
